@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Simple Projects ie Ecmmerce App**<br><br>- 🌱 I’m currently learning Javascript and Python **React Native, Python**<br><br>- 💬 Ask me about **Software,**<br><br>- 📫 How to reach me **oduyajohn66@gmail.com**<br><br>- ⚡ Fun fact **I think I'm fun to be around... guess we'll know some day**
+- 🔭 I’m currently working on **Simple Projects ie Ecommerce App**<br><br>- 🌱 I’m currently learning **React Native, Python**<br><br>- 💬 Ask me about **Software,**<br><br>- 📫 How to reach me **oduyajohn66@gmail.com**<br><br>- ⚡ Fun fact **I think I'm fun to be around... guess we'll know some day**
 
 
 ## 🌐 Socials:
